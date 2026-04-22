@@ -1,4 +1,8 @@
 // All Codes are adapt from YTLite and uYouEnhanced + Some of my research
+#import <YouTubeHeader/YTIElementRenderer.h>
+#import <YouTubeHeader/YTInnerTubeCollectionViewController.h>
+#import <YouTubeHeader/YTISectionListRenderer.h>
+#import <YouTubeHeader/YTIShelfRenderer.h>
 #import "Headers.h"
 
 // Navigation Bar
@@ -659,7 +663,6 @@ static NSDictionary<NSString *, NSString *> *HideToggleMap(void) {
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
         map = @{
-            /*
             // identifiers
             @"id.video.share.button": @"hideShareButton_enabled", // Share button
             @"id.ui.add_to.offline.button": @"hideDownloadButton_enabled",
@@ -687,7 +690,6 @@ static NSDictionary<NSString *, NSString *> *HideToggleMap(void) {
             id.reel_remix_button
             id.reel_pivot_button Sound metadate in shorts
             id.ui.video_metadata_carousel -> Preview comments in full video
-            */
             @"horizontal-video-shelf.eml": @"HideHoriShelf",
             @"feed_nudge.view": @"HideGenMusicShelf"
         };
