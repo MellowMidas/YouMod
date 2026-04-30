@@ -89,7 +89,7 @@
 "HIDE_WATERMARK" = "Hide watermark";
 "HIDE_WATERMARK_DESC" = "Hide channel watermark at the bottom of the video overlay.";
 "GESTURES" = "Enable gestures controls";
-"GESTURES_DESC" = "Enables gestures controls in the video overlay.\nLeft: Brightness, Right: Volume";
+"GESTURES_DESC" = "Enables gestures controls in the video overlay.\nTop: Brightness, Bottom: Volume";
 "DISABLES_DOUBLE_TAP" = "Disables double tap";
 "DISABLES_DOUBLE_TAP_DESC" = "Disables double tap to seek in the video overlay.";
 "DISABLES_LONG_HOLD" = "Disables long hold";

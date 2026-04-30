@@ -89,7 +89,7 @@
 "HIDE_WATERMARK" = "Cacher le filigrane";
 "HIDE_WATERMARK_DESC" = "Cache le filigrane de la chaîne en bas de l'interface vidéo.";
 "GESTURES" = "Enable gestures controls";
-"GESTURES_DESC" = "Enables gestures controls in the video overlay.\nLeft: Brightness, Right: Volume";
+"GESTURES_DESC" = "Enables gestures controls in the video overlay.\nTop: Brightness, Bottom: Volume";
 "DISABLES_DOUBLE_TAP" = "Désactiver le double appui";
 "DISABLES_DOUBLE_TAP_DESC" = "Désactive le double appui pour avancer/reculer dans l'interface vidéo.";
 "DISABLES_LONG_HOLD" = "Désactiver l'appui long";

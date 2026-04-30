@@ -89,7 +89,7 @@
 "HIDE_WATERMARK" = "Скрыть водяной знак";
 "HIDE_WATERMARK_DESC" = "Скрыть водяной знак канала внизу интерфейса видео.";
 "GESTURES" = "Enable gestures controls";
-"GESTURES_DESC" = "Enables gestures controls in the video overlay.\nLeft: Brightness, Right: Volume";
+"GESTURES_DESC" = "Enables gestures controls in the video overlay.\nTop: Brightness, Bottom: Volume";
 "DISABLES_DOUBLE_TAP" = "Отключить двойное нажатие";
 "DISABLES_DOUBLE_TAP_DESC" = "Отключить перемотку двойным нажатием в интерфейсе видео.";
 "DISABLES_LONG_HOLD" = "Отключить долгое нажатие";

@@ -89,7 +89,7 @@
 "HIDE_WATERMARK" = "채널 워터마크 숨기기";
 "HIDE_WATERMARK_DESC" = "영상 오른쪽 아래 구석에 작게 떠 있는 채널 로고(워터마크)를 숨깁니다.";
 "GESTURES" = "Enable gestures controls";
-"GESTURES_DESC" = "Enables gestures controls in the video overlay.\nLeft: Brightness, Right: Volume";
+"GESTURES_DESC" = "Enables gestures controls in the video overlay.\nTop: Brightness, Bottom: Volume";
 "DISABLES_DOUBLE_TAP" = "두 번 탭하기 건너뛰기 끄기";
 "DISABLES_DOUBLE_TAP_DESC" = "화면 양옆을 두 번 터치해서 앞뒤로 건너뛰는 기능을 끕니다.";
 "DISABLES_LONG_HOLD" = "길게 눌러 배속하기 끄기";
